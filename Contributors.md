@@ -3,3 +3,5 @@
 - [Yash Gupta](https://github.com/yashgpt1)
 - [Abhinash Yadav](https://github.com/ralphcoder)
 - [Ayush Mishra] (http://GitHub.com/ayush31102002
+- [Inferno Satanic](https://github.com/Inferno-Satanic)
+- [Sanskar Srivastava](https://github.com/sanskarsri)
