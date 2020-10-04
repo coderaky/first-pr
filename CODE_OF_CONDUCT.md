@@ -40,7 +40,7 @@ that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviours that they deem inappropriate,
 threatening, offensive, or harmful.
 
-## Scope
+## Main Scope
 
 This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community. Examples of
@@ -64,5 +64,5 @@ separately.
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
 available at [http://contributor-covenant.org/version/1/4][version]
 
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+[homepage url]: http://contributor-covenant.org
+[version url]: http://contributor-covenant.org/version/1/4/
