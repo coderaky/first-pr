@@ -3,6 +3,7 @@
 - [Ratnesh Kumar Tiwari](https://github.com/Ratnesh4193)
 - [Harshit Singh](https://https://github.com/harshit-tech03)
 - [Yash Gupta](https://github.com/yashgpt1)
+- [Md Zaid Ansari](https://github.com/razorcalhn)
 - [Abhinash Yadav](https://github.com/ralphcoder)
 - [Abhinandan Mishra](https://github.com/abhinandanmishra1)
 - [Ayush Mishra](http://GitHub.com/ayush31102002)
