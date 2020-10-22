@@ -9,3 +9,4 @@
 - [Ayush Mishra](http://GitHub.com/ayush31102002)
 - [Inferno Satanic](https://github.com/Inferno-Satanic)
 - [Sanskar Srivastava](https://github.com/sanskarsri)
+- [shashi jaiswal](https://github.com/shashijaiswal1)
