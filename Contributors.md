@@ -11,3 +11,4 @@
 - [Sanskar Srivastava](https://github.com/sanskarsri)
 - [shashi jaiswal](https://github.com/shashijaiswal1)
 - [Siddhu Vydyabhushana](https://github.com/vydys)
+- [Prathamesh Borse](https://github.com/prathamesh-borse)
