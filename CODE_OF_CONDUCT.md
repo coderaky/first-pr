@@ -1,5 +1,7 @@
 # Contributor Covenant Code of Conduct
 
+The code of conduct reviews the repository’s mission and values and ties these ideals to professional behavior standards. In many workplaces, codes of conduct become benchmarks of performance.  
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
